@@ -1,15 +1,16 @@
-id: opecha:P000495
+id: P000495
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W4CZ65553
   title: གསུང་ཐོར་བུ། བློ་བཟང་འོད་ཟེར།
-  volume:
+  author: ''
+  volumes:
     88b78eed3ab34835ab71560baf02d6ee:
       image_group_id: I4CZ65583
       title: Volume 1 of gsung thor bu/ blo bzang 'od zer/
       volume_number: 1
       total_pages: 124
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གསུང་ཐོར་བུ། བློ་བཟང་འོད་ཟེར།
   author: ''
